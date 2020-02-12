@@ -10,3 +10,5 @@ PCA is a method used for __compressing__ a lot of data into something that captu
 - Calculated efficiently with computer programs
 - This method combines __highly correlated variables__ together to form a smaller number of an artificial set of variables.<br/>   
 - These artificial set of variables are called __'principal components'__ that account for __most variance__ in the data.
+
+- [Link for the Jupyter notebook](./PCA/PCA.ipynb)
